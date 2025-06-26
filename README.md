@@ -69,7 +69,7 @@ With a strong foundation in **SQL, Power BI, and Python-based data analysis**, I
 ## 📫 Let's Connect
 
 - 📧 Email: [anshulgupta19122001@gmail.com](mailto:anshulgupta19122001@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/anshxpress019)  
+- 💼 LinkedIn: [linkedin.com/in/anshxpress019](https://linkedin.com/in/anshxpress019)  
 
 ---
 
