@@ -63,7 +63,6 @@ With a strong foundation in **SQL, Power BI, and Python-based data analysis**, I
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight)
 
 ---
 
