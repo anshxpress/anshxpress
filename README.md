@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anshul Gupta  
 
-🎯 **Data Analytics Enthusiast | Power BI | SQL | MCA @ MIT-WPU, Pune**
+🎯 **Data Analytics Enthusiast | Power BI | SQL |**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)](https://linkedin.com/in/anshxpress019)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshulgupta19122001@gmail.com)
