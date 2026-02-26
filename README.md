@@ -3,10 +3,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="80" />
+      <h1>Hi there, I'm Anshul Gupta</h1>
     </td>
     <td align="center" valign="middle">
-      <h1>Hi, I'm Anshul Gupta</h1>
+      <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60" />
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@ I am a passionate and detail-oriented **Data Enthusiast**. I specialize in trans
 ### 💻 Programming & Querying
 ![Python](https://skillicons.dev/icons?i=python) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Bash](https://skillicons.dev/icons?i=bash)
 
-### 📊 Analysis & Visualization
+### 📊 Data Analysis & Visualization
 <p>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
