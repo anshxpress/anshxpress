@@ -78,8 +78,8 @@ I am a passionate and detail-oriented **Data Enthusiast**. I specialize in trans
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> -->
   <br/>
   <img src="https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
