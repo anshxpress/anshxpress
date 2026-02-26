@@ -1,25 +1,18 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="right" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="100" />
 
-<h1>👋 Hi, I'm Anshul Gupta</h1>
+  <h1>Hi, I'm Anshul Gupta 👋</h1>
 
-</td>
-<td align="left" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="110" />
-</td>
-</tr>
-</table>
+  ### 🎯 Data Analytics Enthusiast | Power BI · SQL · Python
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshxpress019)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/anshxpress)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta19122001@gmail.com)
 
-### 🎯 Data Analytics Enthusiast | Power BI · SQL · Python
+  *"Turning messy data into clean, decision-ready narratives."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshxpress019)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta19122001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshxpress)
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshxpress&color=blueviolet&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=anshxpress&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -27,103 +20,88 @@
 
 ## 🧠 About Me
 
-I'm **Anshul Gupta**, a passionate and detail-oriented data enthusiast. I'm driven by curiosity and the thrill of turning raw data into impactful insights.
+I am a passionate and detail-oriented **Data Enthusiast** driven by curiosity and the thrill of uncovering impactful insights. I specialize in transforming raw, complex datasets into visual stories that drive business growth.
 
-With a strong foundation in **SQL, Power BI, and Python-based data analysis**, I enjoy diving into exploratory data analysis (EDA), building dashboards, and transforming messy data into clean, decision-ready narratives.
-
-> 🔍 *"The best insights come from messy data — cleaned with code, visualized with purpose, and delivered with clarity."*
-
----
-
-## 💡 What Drives Me
-
-| Area | Description |
-|------|-------------|
-| 📊 **Data Visualization** | Clear, concise, and compelling storytelling through charts and dashboards |
-| 🔍 **EDA** | Discovering trends, anomalies, and hidden insights in raw data |
-| 🧠 **Problem Solving** | Using data to support strategy and business growth |
-| 🤝 **Collaboration** | Working with diverse teams to bring insights to life |
+- 🔭 **Currently working on:** Advanced predictive modeling using Python.
+- 🎓 **Education:** Strong foundation in SQL, Power BI, and Exploratory Data Analysis (EDA).
+- 💬 **Ask me about:** Data cleaning pipelines, interactive dashboards, and NLP basics.
+- ⚡ **Fun Fact:** I believe the best insights are hidden in the data others find too "messy" to clean.
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-### 💻 Programming & Query Languages
-![Python](https://skillicons.dev/icons?i=python)&nbsp;
-![MySQL](https://skillicons.dev/icons?i=mysql)&nbsp;
-![Java](https://skillicons.dev/icons?i=java)&nbsp;
-![C++](https://skillicons.dev/icons?i=cpp)
+### 💻 Programming & Querying
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,bash" alt="Languages" />
+</p>
 
-### 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Analysis & Visualization
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+</p>
 
-### ☁️ Cloud & DevTools
-![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
-![Git](https://skillicons.dev/icons?i=git)&nbsp;
-![GitHub](https://skillicons.dev/icons?i=github)&nbsp;
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-
----
-
-## 🚀 Key Projects
-
-### 📈 Customer Feedback Analysis
-> Sentiment analysis on globally collected movie reviews using NLP techniques.
-- Classified reviews into **Positive**, **Negative**, or **Neutral** sentiments
-- Built preprocessing pipeline with tokenization and stopword removal
-- **Tools:** `Python` `Pandas` `NLTK`
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,jupyter" alt="Tools" />
+</p>
 
 ---
 
-### 📊 E-Commerce Data Dashboard
-> End-to-end EDA on transaction-level data with an interactive Power BI dashboard.
-- Analyzed user behavior, sales performance, and product trends
-- Designed multi-page dashboard with drill-through filters and KPIs
-- **Tools:** `Excel` `Power BI` `SQL`
+## 🚀 Featured Projects
+
+### 📈 [Customer Feedback Sentiment Engine](https://github.com/anshxpress)
+> **Domain:** Natural Language Processing (NLP)
+- Developed a sentiment classifier for global movie reviews using **NLTK**.
+- Engineered a preprocessing pipeline (tokenization, stop-word removal) to improve accuracy.
+- **Tech:** `Python` • `Pandas` • `NLTK`
+
+### 📊 [E-Commerce Performance Dashboard](https://github.com/anshxpress)
+> **Domain:** Business Intelligence & Sales Analytics
+- Executed end-to-end EDA on 1M+ transaction rows to identify seasonal trends.
+- Built a multi-page **Power BI** dashboard with drill-through filters and real-time KPIs.
+- **Tech:** `SQL` • `Power BI` • `Excel`
+
+### 🌐 [India Demographic Insights App](https://github.com/anshxpress)
+> **Domain:** Public Data Visualization
+- Created a web-based interactive tool to visualize literacy and population metrics.
+- Leveraged **Seaborn** for complex statistical plotting and **Streamlit** for deployment.
+- **Tech:** `Streamlit` • `Seaborn` • `Python`
 
 ---
 
-### 🌐 India Demographic Insights
-> Interactive dashboard visualizing India's demographic indicators.
-- Covered literacy rates, population distribution, and sex ratio data
-- Deployed as an interactive Streamlit web app
-- **Tools:** `Python` `Seaborn` `Streamlit`
-
----
-
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 <div align="center">
-
-<table border="0">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
+
+I'm always open to discussing **Data Analyst roles**, freelance projects, or just geeking out about data!
+
+- 📧 **Email:** [anshulgupta19122001@gmail.com](mailto:anshulgupta19122001@gmail.com)
+- 💼 **LinkedIn:** [Anshul Gupta](https://linkedin.com/in/anshxpress019)
+- 🐙 **GitHub:** [@anshxpress](https://github.com/anshxpress)
 
 <div align="center">
-
-📧 [anshulgupta19122001@gmail.com](mailto:anshulgupta19122001@gmail.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/anshxpress019](https://linkedin.com/in/anshxpress019)
-
-**Open to Data Analyst roles, freelance projects, and collaborations!**
-
+  <sub>Built with ❤️ and a lot of ☕ by Anshul Gupta</sub>
 </div>
