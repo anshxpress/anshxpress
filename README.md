@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="500" />
-</div>
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="right" valign="middle">
 
-# 👋 Hi, I'm Anshul Gupta
+<h1>👋 Hi, I'm Anshul Gupta</h1>
+
+</td>
+<td align="left" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="110" />
+</td>
+</tr>
+</table>
 
 ### 🎯 Data Analytics Enthusiast | Power BI · SQL · Python
 
