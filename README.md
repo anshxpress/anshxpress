@@ -101,11 +101,18 @@ With a strong foundation in **SQL, Power BI, and Python-based data analysis**, I
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=anshxpress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxpress&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anshxpress&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
